@@ -1,0 +1,62 @@
+[
+  {
+    "id": "log_1794020849500",
+    "workflowId": "wf_security",
+    "workflowName": "Security Lockdown & Organize",
+    "status": "SUCCESS",
+    "startedAt": 1794020849500,
+    "completedAt": 1794020849500,
+    "stepsCount": 4,
+    "executedSteps": [
+      "Verify camera, mic, and phone permissions",
+      "Calculate free on-device memory and cache",
+      "Purge transient logs and temp session caches",
+      "Switch active subsystem to DANGER/Security Mode"
+    ]
+  },
+  {
+    "id": "log_1794020823947",
+    "workflowId": "wf_youtube",
+    "workflowName": "Prepare YouTube Video Workflow",
+    "status": "SUCCESS",
+    "startedAt": 1794020823947,
+    "completedAt": 1794020823947,
+    "stepsCount": 4,
+    "executedSteps": [
+      "Draft 5-minute engaging video script with hook",
+      "Synthesize high-CTR thumbnail composition concept",
+      "Export timed .srt subtitle track file",
+      "Launch YouTube Creator Studio application"
+    ]
+  },
+  {
+    "id": "log_1794020819233",
+    "workflowId": "wf_youtube",
+    "workflowName": "Prepare YouTube Video Workflow",
+    "status": "SUCCESS",
+    "startedAt": 1794020819233,
+    "completedAt": 1794020819233,
+    "stepsCount": 4,
+    "executedSteps": [
+      "Draft 5-minute engaging video script with hook",
+      "Synthesize high-CTR thumbnail composition concept",
+      "Export timed .srt subtitle track file",
+      "Launch YouTube Creator Studio application"
+    ]
+  },
+  {
+    "id": "log_1794020813240",
+    "workflowId": "wf_youtube",
+    "workflowName": "Prepare YouTube Video Workflow",
+    "status": "SUCCESS",
+    "startedAt": 1794020813240,
+    "completedAt": 1794020813240,
+    "stepsCount": 4,
+    "executedSteps": [
+      "Draft 5-minute engaging video script with hook",
+      "Synthesize high-CTR thumbnail composition concept",
+      "Export timed .srt subtitle track file",
+      "Launch YouTube Creator Studio application"
+    ]
+  }
+]

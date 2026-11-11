@@ -1,0 +1,9 @@
+{
+  "name": "AMMU AI - Android AI Assistant",
+  "description": "AMMU AI — JARVIS Edition (np.made.ammu v5.1.0): Advanced voice-first Android personal assistant with Iron Man holographic HUD, Gemini 3.8 Flash intelligence, Camera Vision & OCR, Android phone hardware control, safe calls, and exact reminders.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

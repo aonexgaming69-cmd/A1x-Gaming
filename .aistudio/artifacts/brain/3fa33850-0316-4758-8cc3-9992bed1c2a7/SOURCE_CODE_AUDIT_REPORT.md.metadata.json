@@ -1,0 +1,5 @@
+{
+  "summary": "Comprehensive root cause audit and technical investigation of the MAFIA AI NEXUS codebase (np.made.ammu v6.0.0), detailing WebView thread bottlenecks, stale closures, missing fetch timeouts, and the exact fixes applied.",
+  "updatedAt": "2026-11-06T02:40:52.345196679Z",
+  "userFacing": true
+}

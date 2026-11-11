@@ -1,0 +1,297 @@
+[
+  {
+    "id": "job_1793930742499",
+    "title": "Mission: Create a viral YouTube reel about a...",
+    "requestedBy": "creative_studio",
+    "primaryAgent": "creative_studio",
+    "status": "RUNNING",
+    "overallProgress": 40,
+    "steps": [
+      {
+        "id": "step_1",
+        "agentId": "research",
+        "stepName": "Trend & Topic Analysis",
+        "toolName": "tool_trend_research",
+        "parameters": {
+          "query": "Create a viral YouTube reel about autonomous AI with full script, 3 scenes, and timed subtitles.",
+          "depth": "comprehensive"
+        },
+        "status": "COMPLETED",
+        "progress": 100,
+        "startedAt": 1793930742499,
+        "output": "[वेब खोज र अनुसन्धान सम्पन्न]:\n- विषय: \"Create a viral YouTube reel about autonomous AI with full script, 3 scenes, and timed subtitles.\"\n- स्रोतहरू: ३ प्रत्यक्ष स्रोतहरूबाट प्रमाणित\n- मुख्य नतिजा: उच्च सहभागिता, दर्शकहरूको ध्यान पहिलो ३ सेकेन्डमा खिच्ने रणनीति आवश्यक।",
+        "completedAt": 1793930743100
+      },
+      {
+        "id": "step_2",
+        "agentId": "creative_studio",
+        "stepName": "Scriptwriting & Timed Subtitle Generation",
+        "toolName": "tool_script_writer",
+        "parameters": {
+          "prompt": "Create a viral YouTube reel about autonomous AI with full script, 3 scenes, and timed subtitles.",
+          "format": "shorts_script",
+          "language": "ne"
+        },
+        "status": "COMPLETED",
+        "progress": 100,
+        "startedAt": 1793930743101,
+        "output": "[Viral Script & Subtitle Pack Generated]:\n\nHOOK (0-3s): \"के तपाईलाई यो गोप्य प्रविधि थाहा छ?\" (High tension visual cut)\nINTRO (3-15s): Concept presentation: Create a viral YouTube reel about autonomous AI with full script, 3 scenes, and timed subtitles.\nCORE SCENES:\n  - Scene 1: Problem statement with dramatic audio cue\n  - Scene 2: The NEXUS solution demonstration\n  - Scene 3: Practical test run verification\nCTA (50-60s): \"सब्स्क्राइब गर्नुहोस् र लाइक गर्न नबिर्सनुहोस्!\"\n\nTIMED SUBTITLES (.SRT):\n1\n00:00:00,000 --> 00:00:02,500\nके तपाईलाई यो गोप्य प्रविधि थाहा छ? (Did you know this?)\n\n2\n00:00:02,800 --> 00:00:06,000\nMAFIA AI NEXUS — बौद्धिक स्वचालित एआई सहायक।\n\n3\n00:00:06,500 --> 00:00:10,000\nआफ्नो उत्पादन क्षमता १० गुणा बढाउनुहोस्!",
+        "completedAt": 1793930743701
+      },
+      {
+        "id": "step_3",
+        "agentId": "image_gen",
+        "stepName": "Visual Concept & Thumbnail Art Synthesis",
+        "toolName": "tool_thumbnail_generator",
+        "parameters": {
+          "title": "Create a viral YouTube reel about autono",
+          "style": "cinematic_hdr"
+        },
+        "status": "PENDING",
+        "progress": 0
+      },
+      {
+        "id": "step_4",
+        "agentId": "video_gen",
+        "stepName": "Cinematic Storyboard & Scene Choreography",
+        "toolName": "tool_storyboard_choreographer",
+        "parameters": {
+          "targetDuration": "60s",
+          "cameraStyle": "dynamic_fps"
+        },
+        "status": "PENDING",
+        "progress": 0
+      },
+      {
+        "id": "step_5",
+        "agentId": "video_enhancement",
+        "stepName": "4K/8K Mastering & Export Presets",
+        "toolName": "tool_video_mastering",
+        "parameters": {
+          "resolution": "3840x2160",
+          "profile": "ultra_hd_lut"
+        },
+        "status": "PENDING",
+        "progress": 0
+      }
+    ],
+    "createdAt": 1793930742499,
+    "updatedAt": 1793930743701
+  },
+  {
+    "id": "job_1793930555835",
+    "title": "Mission: Create a funny image...",
+    "requestedBy": "personal_assistant",
+    "primaryAgent": "personal_assistant",
+    "status": "COMPLETED",
+    "overallProgress": 100,
+    "steps": [
+      {
+        "id": "step_1",
+        "agentId": "personal_assistant",
+        "stepName": "Initial Requirements Parsing by personal_assistant",
+        "toolName": "tool_intent_parser",
+        "parameters": {
+          "instructions": "Create a funny image",
+          "language": "ne"
+        },
+        "status": "COMPLETED",
+        "progress": 100,
+        "startedAt": 1793930555836,
+        "output": "[एजेन्ट प्रमाणीकरण विवरण - personal_assistant]:\n- कार्य: सफलतापूर्वक विश्लेषण तथा प्रशोधन गरियो।\n- सबै मापदण्डहरू सामान्य (Nominal) छन्।\n- परिणाम: प्रणालीले विश्वसनीय रूपमा अपेक्षित कार्य पूरा गरेको छ।",
+        "completedAt": 1793930556438
+      },
+      {
+        "id": "step_2",
+        "agentId": "research",
+        "stepName": "Domain Intelligence Retrieval",
+        "toolName": "tool_fact_synthesizer",
+        "parameters": {
+          "topic": "Create a funny image",
+          "language": "ne"
+        },
+        "status": "COMPLETED",
+        "progress": 100,
+        "startedAt": 1793930556438,
+        "output": "[एजेन्ट प्रमाणीकरण विवरण - research]:\n- कार्य: सफलतापूर्वक विश्लेषण तथा प्रशोधन गरियो।\n- सबै मापदण्डहरू सामान्य (Nominal) छन्।\n- परिणाम: प्रणालीले विश्वसनीय रूपमा अपेक्षित कार्य पूरा गरेको छ।",
+        "completedAt": 1793930557038
+      },
+      {
+        "id": "step_3",
+        "agentId": "productivity",
+        "stepName": "Execution & Deliverable Synthesis",
+        "toolName": "tool_deliverable_builder",
+        "parameters": {
+          "instructions": "Create a funny image",
+          "language": "ne"
+        },
+        "status": "COMPLETED",
+        "progress": 100,
+        "startedAt": 1793930557039,
+        "output": "[एजेन्ट प्रमाणीकरण विवरण - productivity]:\n- कार्य: सफलतापूर्वक विश्लेषण तथा प्रशोधन गरियो।\n- सबै मापदण्डहरू सामान्य (Nominal) छन्।\n- परिणाम: प्रणालीले विश्वसनीय रूपमा अपेक्षित कार्य पूरा गरेको छ।",
+        "completedAt": 1793930557639
+      }
+    ],
+    "createdAt": 1793930555836,
+    "updatedAt": 1793930557640,
+    "resultSummary": "MAFIA स्वायत्त अर्केस्ट्रेटर: सबै 3 चरणहरू सफलतापूर्वक सम्पन्न भए।\n\n[एजेन्ट प्रमाणीकरण विवरण - productivity]:\n- कार्य: सफलतापूर्वक विश्लेषण तथा प्रशोधन गरियो।\n- सबै मापदण्डहरू सामान्य (Nominal) छन्।\n- परिणाम: प्रणालीले विश्वसनीय रूपमा अपेक्षित कार्य पूरा गरेको छ।"
+  },
+  {
+    "id": "job_1793713916261",
+    "title": "Create an executive strategy document fo...",
+    "requestedBy": "personal_assistant",
+    "primaryAgent": "personal_assistant",
+    "status": "RUNNING",
+    "overallProgress": 10,
+    "steps": [
+      {
+        "id": "step_1",
+        "agentId": "web_search",
+        "stepName": "Factual Source Gathering",
+        "toolName": "tool_web_search",
+        "parameters": {
+          "query": "Create an executive strategy document for mobile banking in Nepal"
+        },
+        "status": "RUNNING",
+        "progress": 15,
+        "startedAt": 1793713916261
+      },
+      {
+        "id": "step_2",
+        "agentId": "document",
+        "stepName": "Document Structuring & Synthesis",
+        "toolName": "tool_document_formatter",
+        "parameters": {
+          "prompt": "Create an executive strategy document for mobile banking in Nepal",
+          "language": "en"
+        },
+        "status": "PENDING",
+        "progress": 0
+      },
+      {
+        "id": "step_3",
+        "agentId": "productivity",
+        "stepName": "Action Item Extraction & Review",
+        "toolName": "tool_action_extractor",
+        "parameters": {
+          "goal": "Create an executive strategy document for mobile banking in Nepal"
+        },
+        "status": "PENDING",
+        "progress": 0
+      }
+    ],
+    "createdAt": 1793713916261,
+    "updatedAt": 1793713916261
+  },
+  {
+    "id": "job_1793713846736",
+    "title": "Create a viral YouTube reel script and t...",
+    "requestedBy": "personal_assistant",
+    "primaryAgent": "personal_assistant",
+    "status": "RUNNING",
+    "overallProgress": 10,
+    "steps": [
+      {
+        "id": "step_1",
+        "agentId": "research",
+        "stepName": "Trend & Topic Analysis",
+        "toolName": "tool_trend_research",
+        "parameters": {
+          "query": "Create a viral YouTube reel script and thumbnail spec for MAFIA AI",
+          "depth": "comprehensive"
+        },
+        "status": "RUNNING",
+        "progress": 15,
+        "startedAt": 1793713846737
+      },
+      {
+        "id": "step_2",
+        "agentId": "creative_studio",
+        "stepName": "Scriptwriting & Timed Subtitle Generation",
+        "toolName": "tool_script_writer",
+        "parameters": {
+          "prompt": "Create a viral YouTube reel script and thumbnail spec for MAFIA AI",
+          "format": "shorts_script",
+          "language": "ne"
+        },
+        "status": "PENDING",
+        "progress": 0
+      },
+      {
+        "id": "step_3",
+        "agentId": "image_gen",
+        "stepName": "Visual Concept & Thumbnail Art Synthesis",
+        "toolName": "tool_thumbnail_generator",
+        "parameters": {
+          "title": "Create a viral YouTube reel script and t",
+          "style": "cinematic_hdr"
+        },
+        "status": "PENDING",
+        "progress": 0
+      },
+      {
+        "id": "step_4",
+        "agentId": "video_gen",
+        "stepName": "Cinematic Storyboard & Scene Choreography",
+        "toolName": "tool_storyboard_choreographer",
+        "parameters": {
+          "targetDuration": "60s",
+          "cameraStyle": "dynamic_fps"
+        },
+        "status": "PENDING",
+        "progress": 0
+      },
+      {
+        "id": "step_5",
+        "agentId": "video_enhancement",
+        "stepName": "4K/8K Mastering & Export Presets",
+        "toolName": "tool_video_mastering",
+        "parameters": {
+          "resolution": "3840x2160",
+          "profile": "ultra_hd_lut"
+        },
+        "status": "PENDING",
+        "progress": 0
+      }
+    ],
+    "createdAt": 1793713846737,
+    "updatedAt": 1793713846737
+  },
+  {
+    "id": "job_sample_1",
+    "title": "Morning Intelligence Briefing",
+    "requestedBy": "Personal Assistant Agent",
+    "primaryAgent": "personal_assistant",
+    "status": "COMPLETED",
+    "overallProgress": 100,
+    "steps": [
+      {
+        "id": "step_1",
+        "agentId": "personal_assistant",
+        "stepName": "Check system health",
+        "status": "COMPLETED",
+        "progress": 100,
+        "output": "14-point diagnostics verified nominal"
+      },
+      {
+        "id": "step_2",
+        "agentId": "research",
+        "stepName": "Fetch regional weather",
+        "status": "COMPLETED",
+        "progress": 100,
+        "output": "Kathmandu: 21°C, clear skies"
+      },
+      {
+        "id": "step_3",
+        "agentId": "productivity",
+        "stepName": "Query active reminders",
+        "status": "COMPLETED",
+        "progress": 100,
+        "output": "3 pending reminders scheduled"
+      }
+    ],
+    "createdAt": 1793710219471,
+    "updatedAt": 1793710319471,
+    "resultSummary": "Daily briefing completed successfully in Nepali and English."
+  }
+]
